@@ -1,5 +1,36 @@
-body{
-  font-family: Verdana, "sans-serif";
-  font-size: 14px;
-  color: blue;
+#bg #border {
+    border: none !important;
+}
+#bg #topic{
+	display: none !important;
+}
+.zg-attachFileContainerLft{
+	width: 100%;
+    transform: translateX(35%);
+}
+.zg-attachFileContainerLft ul li{
+	width: 100px;
+    margin-left: 10px;
+}
+.zg-attachFileContainer .zg-attachFileDropboxCont h2{
+	visibility: hidden;
+}
+.zg-attachFileBox{
+	width: 100% !important;
+}
+.zg-attachFileContainerRht{
+	width: 100% !important;
+    border: 1px dotted #ccc;
+}
+#pdiv{
+	height: 100%;
+}
+#docsArea .zppromptCont.zg-attachFileDropboxCont {
+    height: 75%;
+}
+.zppromptCont.zg-attachFileContainer{
+	height: 100% !important;
+}
+.zg-attachFileContainerLft ul li.selected{
+	border-bottom: 2px solid #00aeef !important;
 }
