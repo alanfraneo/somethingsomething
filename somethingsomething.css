@@ -1,5 +1,5 @@
 #bg{
-   overflow:hidden;
+   overflow:hidden !important;
 }
 #bg #border {
     border: none !important;
