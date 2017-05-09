@@ -1,39 +1,55 @@
-#bg{
-   overflow:hidden !important;
+
+
+
+#bg {
+	overflow: hidden !important;
 }
 #bg #border {
-    border: none !important;
+	border: none !important;
 }
-#bg #topic{
+#bg #topic {
 	display: none !important;
 }
-.zg-attachFileContainerLft{
+.zg-attachFileContainerLft {
 	width: 100%;
-    transform: translateX(35%);
+	margin-left: 19%;
 }
-.zg-attachFileContainerLft ul li{
+.zg-attachFileContainerLft ul li {
 	width: 100px;
-    margin-left: 10px;
+	margin-left: 10px;
 }
-.zg-attachFileContainer .zg-attachFileDropboxCont h2{
-	visibility: hidden;
+.zg-attachFileContainer .zg-attachFileDropboxCont h2 {
+	display: none;
 }
-.zg-attachFileBox{
+.zg-attachFileBox {
 	width: 100% !important;
 }
-.zg-attachFileContainerRht{
+.zg-attachFileContainerRht {
 	width: 100% !important;
-    border: 1px dotted #ccc;
+	border: 1px dotted #ccc;
+	box-sizing: border-box;
 }
-#pdiv{
+#pdiv {
 	height: 100%;
 }
 #docsArea .zppromptCont.zg-attachFileDropboxCont {
-    height: 75%;
+	height: 75%;
 }
-.zppromptCont.zg-attachFileContainer{
+.zppromptCont.zg-attachFileContainer {
 	height: 100% !important;
 }
-.zg-attachFileContainerLft ul li.selected{
+.zg-attachFileContainerLft ul li.selected {
 	border-bottom: 2px solid #00aeef !important;
+}
+.zg-attachAuthenticationBox {
+	overflow-y: auto;
+	min-height: 250px;
+	height: auto !important;
+}
+.signup-head {
+	padding-top: 0 !important;
+	min-height: 0 !important;
+}
+.signin-part {
+	margin-bottom:5px !important;
 }
