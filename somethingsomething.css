@@ -53,3 +53,7 @@
 .signin-part {
 	margin-bottom:5px !important;
 }
+
+#docsArea .zppromptCont.zg-attachFileDropboxCont {
+	height:65%;
+}
