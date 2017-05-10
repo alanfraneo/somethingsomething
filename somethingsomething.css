@@ -57,7 +57,10 @@
 #docsArea .zppromptCont.zg-attachFileDropboxCont {
 	height:65%;
 }
-.zpfileImportbdy1,.zpfileImportbdy {
+.zpfileImportbdy1 {
 	height:280px !important;
+}
+.zpfileImportbdy {
+	height:270px !important;
 }
 
