@@ -31,7 +31,7 @@
 	min-height:300px !important;
 }
 #pdiv {
-	height: 100%;
+	height:inherit;
 }
 #docsArea .zppromptCont.zg-attachFileDropboxCont {
 	height: 75%;
