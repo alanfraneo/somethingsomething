@@ -29,6 +29,7 @@
 	border: 1px dotted #ccc;
 	box-sizing: border-box;
 	min-height:300px !important;
+	padding-bottom:8px;
 }
 #pdiv {
 	height:inherit;
@@ -65,5 +66,8 @@
 	height:270px !important;
 }
 .zg-attachFileDropboxCont {
-	padding-bottom:10px;
+	padding-bottom:8px;
+}
+.zg-attachFileFooter {
+	padding:6px 0;
 }
