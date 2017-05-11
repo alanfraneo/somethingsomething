@@ -28,6 +28,7 @@
 	width: 100% !important;
 	border: 1px dotted #ccc;
 	box-sizing: border-box;
+	min-height:300px !important;
 }
 #pdiv {
 	height: 100%;
@@ -63,4 +64,6 @@
 .zpfileImportbdy {
 	height:270px !important;
 }
-
+.zg-attachFileDropboxCont {
+	padding-bottom:10px;
+}
