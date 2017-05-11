@@ -71,3 +71,6 @@
 #zohodocsDiv .zg-attachFileFooter {
 	padding:2px 0 !important;
 }
+#docsArea .zg-attachFileFooter {
+	padding:10px 0px 1px !important;
+}
